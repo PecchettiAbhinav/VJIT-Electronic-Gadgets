@@ -4,6 +4,8 @@
 
 Gadget Shop is a simple e-commerce website that allows users to browse electronic gadgets and add them to a shopping cart. The project demonstrates basic web development concepts using HTML, CSS, Bootstrap, and JavaScript.
 
+You can Access the website here: https://taupe-alfajores-52158f.netlify.app/
+
 ## Features
 
 * Browse different gadgets such as smartphones, laptops, TVs, speakers, smartwatches, and power banks
