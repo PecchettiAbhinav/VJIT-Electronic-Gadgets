@@ -53,5 +53,3 @@ This project was created to practice front-end web development and understand ho
 * Connect the website to a backend using Node.js and a database
 
 ---
-
-Created as a beginner web development project. 💻
